@@ -330,7 +330,7 @@ const tempData = [
   },
   {
     Lesson: 4,
-    Description: "mortar",
+    Description: "Mortar",
     Pairs: [
       {
         base: "again",
@@ -424,51 +424,83 @@ const tempData = [
   },
   {
     Lesson: 5,
-    Description: "Verbs X",
+    Description: "Verbs 4",
     Pairs: [
       {
-        base: "",
-        target: "",
+        base: "I have to",
+        target: "tengo que",
       },
       {
-        base: "",
-        target: "",
+        base: "I can",
+        target: "Puedo",
       },
       {
-        base: "",
-        target: "",
+        base: "to study",
+        target: "estudiar",
       },
       {
-        base: "",
-        target: "",
+        base: "to return",
+        target: "regressar",
       },
       {
-        base: "",
-        target: "",
+        base: "to be",
+        target: "estar",
       },
-      {
-        base: "",
-        target: "",
+	  {
+        base: "to work",
+        target: "trabajar",
       },
     ],
     Exercises: [
       {
-        base: "",
-        target: "",
+        base: "Can I speak to you for a moment",
+        target: "¿Puedo hablar con usted por un momento?",
       },
       {
-        base: "",
-        target: "",
+        base: "I can go to Spain in October",
+        target: "Puedo ir a España en Octubre",
       },
+      {
+        base: "I have to speak with the doctor",
+        target: "Tengo que hablar con el doctor",
+      },
+      {
+        base: "I have to return the video tomorrow",
+        target: "Tengo que regresar el video mañana",
+      },
+      {
+        base: "I can speak a little Spanish",
+        target: "Puedo hablar un poco de Español",
+      },
+      {
+        base: "I want to work in the United Nations",
+        target: "Quiero trabajar en las Naciones Unidas",
+      },
+      {
+        base: "Can I see the menu please?",
+        target: "¿Puedo ver el menú por favor?",
+      },
+      {
+        base: "I can't invite many people to the party",
+        target: "No puedo invitar a muchas personas a la fiesta",
+      },
+      {
+        base: "In order to see the island I need to use binoculars",
+        target: "Para ver la isla necesito usar binoculares",
+      },
+      {
+        base: "Can I see the passports again please?",
+        target: "¿Peudo ver los passaportes otra vez por favor?",
+      },	  
     ],
     Hints: [
       {
-        base: "",
-        target: "",
+        base: "United Nations",
+        target: "Naciones Unidas",
       },
       {
-        base: "",
-        target: "",
+        base: "people",
+        target: "personas",
       },
       {
         base: "",
